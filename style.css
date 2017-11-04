@@ -1,0 +1,52 @@
+/*@media (max-width: 992px) {*/
+    /*.navbar-brand {*/
+        /*color: black!important;*/
+    /*}*/
+    /*.navbar-brand:hover {*/
+        /*color: #4e7afb!important;*/
+    /*}*/
+/*}*/
+
+/*.nav-link:hover {*/
+    /*color: #4e7afb!important;*/
+/*}*/
+/*.nav-link:focus {*/
+    /*color: #4e7afb!important;*/
+/*}*/
+/*.nav-link:active {*/
+    /*color: #4e7afb!important;*/
+/*}*/
+
+
+.social-linkedin a {
+    background-color: #0077b5;
+}
+
+
+.social-linkedin:hover a {
+    background-color: #0566b5;
+}
+
+@media (max-width: 767px) {
+    .my-margin {
+        margin-top: 70px;
+    }
+}
+
+
+/*i.icon-event {*/
+    /*color: green!important;*/
+    /*background-color: green!important;*/
+/*}*/
+
+/*i.icon-clock {*/
+    /*color: #000000!important;*/
+/*}*/
+
+/*i.icon-clock:before {*/
+    /*color: #000000!important;*/
+/*}*/
+
+/*i.icon-clock:after {*/
+    /*color: #000000!important;*/
+/*}*/
